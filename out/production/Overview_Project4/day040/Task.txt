@@ -16,3 +16,25 @@ n! hesabını yapabilen bir metot geliştiriniz.
 - for döngüsü 2'den başlayıp n'e kadar gitmelidir.
 - Döngü içinde carpim*=i ataması kullanılarak kümülatif çarpım bulunabilir
 - metodun en sonunda carpim değişkeni return edilmelidir.
+
+
+Task 3:
+Bir sayının asal olup olmadığını tespit eden metot yazınız.
+Daha sonra 1'den 100'e kadar olan asal sayıları ekranda gösteriniz.
+
+Algorithm to Find Prime Number
+STEP 1: Take num as input.
+
+STEP 2: Initialize a variable temp to 0.
+
+STEP 3: Iterate a “for” loop from 2 to num/2.
+
+STEP 4: If num is divisible by loop iterator, then increment temp.
+
+STEP 5: If the temp is equal to 0,
+
+    Return “Num IS PRIME”.
+
+Else,
+
+    Return “Num IS NOT PRIME”.
