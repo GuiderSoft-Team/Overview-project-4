@@ -5,14 +5,12 @@ import java.util.Scanner;
 public class AsalSayiBul {
    public static boolean isAsal(int number){
         int count=0;
-
-        if(number==1){//Bir, asal sayı olmadıgı için countun varsayılan değerini bir artırdık.yoksa bir için true döner
-            count++;
+        if(number<2){   // negatif yada bir sayısını girme durumunda korumaya alındı
+            return false;
         }
 
         for (int i = 2; i <number ; i++) {
             if(number%i==0){
-
                 count++;
             }
         }
