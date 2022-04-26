@@ -1,7 +1,21 @@
 package day040;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Task {
+    public static ArrayList asallist(int sayi)
+    {
+        ArrayList <Integer>list=new ArrayList<>();
+        for(int x=0;x<sayi;x++)
+        {
+           if( isPrimeNumber(x,x/2))
+           {
+              list.add(x);
+           }
+        }
+        return list;
+    }
     static boolean isPrimeNumber(int a, int b) {
         if (a < 2)
             return false;
@@ -27,5 +41,7 @@ public class Task {
         } else {
             System.out.println(a + " asal degildir");
         }
+        System.out.println("girilen sayiya kadar asal olan sayilar:"+ asallist(a));
+
     }
 }
