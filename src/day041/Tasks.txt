@@ -1,0 +1,10 @@
+Task 3:
+Bir sayının asal olup olmadığını tespit eden metot yazınız.
+Daha sonra 1'den 100'e kadar olan asal sayıları ekranda gösteriniz.
+
+Task 4:
+Klavyeden girilen bir cümlenin içerisindeki (5) harfli kelimeleri bulan Java programını yazınız.
+
+- Verilen String split metoduyla kelimelerine ayrılmalıdır. (String dizisi döndürür.)
+- Elde edilen String dizisinin elemanlarına bir döngüyle erişilir. (5) harfli olanlar başka bir dizi
+içinde muhafaza edilir.
