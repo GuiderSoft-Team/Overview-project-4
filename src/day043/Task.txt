@@ -1,0 +1,4 @@
+Task:
+- Ata sınıfı hayvan olan bir Kus sınıfı tasarlayınız.
+- double kanatUzunlugu özelliği ekleyiniz. Getter/setter yazılmalı
+- iletisimKur metodu kuşlara özel yazılacak. override işlemi
