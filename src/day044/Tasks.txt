@@ -3,10 +3,10 @@ Klavyeden girilen 3 adet tam sayının ortalamasını hesaplayan Java programın
 
 Talimatlar:
 - Kullanıcı print ile bilgilendirilecektir.
-- Scanner ile kalvyeden veri okunacaktır.
+- Scanner ile klavyeden veri okunacaktır.
 - veri okuma işi for döngüsü içerisinde yapılacaktır.
 - Okunan sayı toplam değişkenine ilave edilecektir.
-- Döngü bitiminde ortalama hesaplanıp, ekranda gösterilecktir.
+- Döngü bitiminde ortalama hesaplanıp, ekranda gösterilecektir.
 
 
 Task 2:
@@ -18,7 +18,7 @@ Talimatlar:
 - Girilen her iki değeri karşılaştırıp boolean değer döndüren
 checkPassword(password,confirmation) metodu yazılacaktır.
 - Eğer metot true döndürürse ekrana "Parola onaylandı" mesajı yazdırılacaktır.
-- Eğer metot false döndürürse kırmızı şekilde "Eşleşme sağlanamadı" mesajı yazdırılacaktır.
+- Eğer metot false döndürürse kırmızı şekilde (err) "Eşleşme sağlanamadı" mesajı yazdırılacaktır.
 
 Task 3:
 Verilen bir dizi içerisindeki belirli bir değeri bulan Java programını yazınız.
