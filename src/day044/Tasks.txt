@@ -21,3 +21,15 @@ checkPassword(password,confirmation) metodu yazılacaktır.
 - Eğer metot false döndürürse kırmızı şekilde "Eşleşme sağlanamadı" mesajı yazdırılacaktır.
 
 Task 3:
+Verilen bir dizi içerisindeki belirli bir değeri bulan Java programını yazınız.
+
+Talimatlar:
+- int findValue(dizi,değer) şeklinde bir metot tasarlanacaktır.
+- Metotta bir döngü kullanıarak değer dizi içerisinde aranacaktır.
+- Eğer bulunursa ilgili index numarası döndürülecektir.
+- Eğer bulunamazsa -1 değeri döndürülecektir.
+- Metot çağrıldığında -1'den farklı bir değer dönmüşse "Aradığınız değerin index numarası: 5"
+şeklinde bir mesaj yazdırılacaktır.
+- Eğer -1 dönmüş ise Kırmızı şekilde "Aradığınız değer bulunamadı" mesajı yazdırılacaktır.
+
+Task 4:
