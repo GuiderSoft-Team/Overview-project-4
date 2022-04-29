@@ -1,0 +1,23 @@
+Task 1:
+Klavyeden girilen 3 adet tam sayının ortalamasını hesaplayan Java programını yazınız.
+
+Talimatlar:
+- Kullanıcı print ile bilgilendirilecektir.
+- Scanner ile kalvyeden veri okunacaktır.
+- veri okuma işi for döngüsü içerisinde yapılacaktır.
+- Okunan sayı toplam değişkenine ilave edilecektir.
+- Döngü bitiminde ortalama hesaplanıp, ekranda gösterilecktir.
+
+
+Task 2:
+Parola kontrolü yapan Java programını yazınız.
+
+Talimatlar:
+- Kullanıcıdan yeni parolasını girmesi istenilecektir.
+- Onay için aynı parolayı tekrar girmesi istenilecektir.
+- Girilen her iki değeri karşılaştırıp boolean değer döndüren
+checkPassword(password,confirmation) metodu yazılacaktır.
+- Eğer metot true döndürürse ekrana "Parola onaylandı" mesajı yazdırılacaktır.
+- Eğer metot false döndürürse kırmızı şekilde "Eşleşme sağlanamadı" mesajı yazdırılacaktır.
+
+Task 3:
