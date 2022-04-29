@@ -33,3 +33,33 @@ Talimatlar:
 - Eğer -1 dönmüş ise Kırmızı şekilde "Aradığınız değer bulunamadı" mesajı yazdırılacaktır.
 
 Task 4:
+Klavyeden girilen bir tamsayı değerinin
+ 3 katının 1 fazlası değerini geri döndüren Java programını yazınız.
+
+Talimatlar:
+- int hesapla(değer) isimli metodu tasarlayınız
+- Metot içerisinde değerx3+1 değeri geri döndürülecektir.
+- Klavyeden Scanner ile veri okunacaktır.
+- Kullanıcı bilgilendirilecktir.
+
+Task 5:
+Her çalıştırıldığında ekrana rasgtele (ramdom) özlü söz çıkartan Java programını yazınız.
+
+Talimatlar:
+- Vecize isimli bir sınıf tasarlayınız
+- Bu sınıfın aciklama ve sahibi şeklinde iki alanı olmaldır
+- Bu alanlar için getter/setter oluşturulmaldır.
+- Parametreli ve parametresiz constructor'ları oluşturulmaldır.
+- Pano isimli bir sınıf tasarlanmaldır.
+- Bu sınıfın List<Vecize> vecizeler isimli bir alanı olmalıdır.
+- yayinla() isimli metot, her defasında farklı bir vecizeyi yayınlayabilmelidir.
+
+Bazı Vecizeler:
+Cahil kimsenin yanında kitap gibi sessiz ol. MEVLANA
+Camdan evde oturanlar başkalarına taş atmamalıdırlar. G. NERBERT
+Cennet anaların ayakları altındadır. HZ. MUHAMMED
+Cesaret cennete, korku ölüme sürükler. SENECA
+Cesaret insanı zafere, korkaklık ölüme götürür. SENECA
+Cesareti olmayan adamın başarısı olmaz. PULDIUS CYRUS
+
+Task 6:
